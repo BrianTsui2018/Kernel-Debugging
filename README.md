@@ -22,3 +22,13 @@ https://www.codeproject.com/Articles/4929/Toolhelp32ReadProcessMemory
 
 *	String to dword
 http://www.cplusplus.com/forum/beginner/95723/
+
+## To compile
+1. Open solution (.sln) in Visual Studio 2017. 
+2. Make sure that your debug platform is 64x (otherwise you would see error code 299 often).
+3. Build solution.
+
+
+## To test run
+Run "Kernel Debugging.exe".
+(Only tested in Windows10 64-bit)
